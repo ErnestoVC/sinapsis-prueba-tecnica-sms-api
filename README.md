@@ -370,20 +370,10 @@ La aplicación verifica automáticamente la conexión a la base de datos al inic
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👥 Equipo
-
-- **Desarrollador Principal**: [Tu Nombre]
-- **Email**: [tu-email@ejemplo.com]
-
 ## 👥 Información del Proyecto
 
 - **Prueba Técnica**: Soporte TI - Sinapsis
 - **Objetivo**: Sistema de gestión de campañas SMS con análisis y reportes
-- **Contacto de Entrega**: elbin.flores@sinapsiscorp.com
 - **Framework**: Node.js + Express + MySQL
 - **Arquitectura**: Serverless ready
 
