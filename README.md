@@ -211,13 +211,11 @@ npm run dev
 ```
 
 # Modo desarrollo local
+```bash
 npm run serverless:dev
 ```
 
 **Nota**: El directorio `undefined/` es creado automáticamente por Serverless Framework para mantener la autenticación y configuraciones temporales. Es normal y no debe ser eliminado durante el desarrollo.
-
-### Entrega del Proyecto
-Una vez completado, enviar la URL del repositorio a: **elbin.flores@sinapsiscorp.com**
 
 ## 🏗️ Estructura del Proyecto
 
@@ -345,18 +343,6 @@ La aplicación verifica automáticamente la conexión a la base de datos al inic
 - `npm run dev` - Inicia el servidor con hot reload usando Nodemon  
 - `npm test` - Ejecuta las pruebas (pendiente implementación)
 - `npm run serverless:dev` - Inicia el servidor en modo serverless offline
-
-## 🧪 Testing
-
-Actualmente el proyecto no tiene pruebas configuradas. Para implementar testing se recomienda:
-
-```bash
-# Instalar dependencias de testing
-npm install --save-dev jest supertest
-
-# Crear estructura de pruebas
-mkdir __tests__
-```
 
 ## 📦 Dependencias Principales
 
