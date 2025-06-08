@@ -117,10 +117,14 @@ mysql -u tu_usuario -p sms_marketing < db.sql
 ```bash
 # Iniciar servidor en modo desarrollo con hot reload
 npm run dev
+```
 
+```bash
 # Iniciar servidor en modo producción
 npm start
+```
 
+```bash
 # Iniciar en modo serverless offline
 npm run serverless:dev
 ```
